@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: c03889ef93d104714ad57d8d0dfede4c
+timeCreated: 1436878409
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Arm
+    100002: Arm 1
+    100004: Arm_Cuff
+    100006: Arm_Cuff 1
+    100008: Arm_Mitten
+    100010: Arm_Mitten 1
+    100012: Arm_Sleeve
+    100014: Arm_Sleeve 1
+    100016: Belt
+    100018: Belt_Buckle
+    100020: Belt_Buckle_Ring
+    100022: Belt_Buckle_S
+    100024: Belt_Strap
+    100026: Body
+    100028: Coat_Half
+    100030: Coat_Half 1
+    100032: Coat_Trim
+    100034: Collar
+    100036: ID119
+    100038: ID189
+    100040: ID19
+    100042: ID35
+    100044: ID60
+    100046: instance_0
+    100048: instance_1
+    100050: instance_1 1
+    100052: instance_2
+    100054: instance_2 1
+    100056: instance_3
+    100058: instance_3 1
+    100060: instance_4
+    100062: Leg
+    100064: Leg 1
+    100066: Leg_Boot
+    100068: Leg_Boot 1
+    100070: Leg_Cuff
+    100072: Leg_Cuff 1
+    100074: Leg_Pants
+    100076: Leg_Pants 1
+    100078: //RootNode
+    100080: Torso
+    100082: Torso_Half
+    100084: Torso_Half 1
+    400000: Arm
+    400002: Arm 1
+    400004: Arm_Cuff
+    400006: Arm_Cuff 1
+    400008: Arm_Mitten
+    400010: Arm_Mitten 1
+    400012: Arm_Sleeve
+    400014: Arm_Sleeve 1
+    400016: Belt
+    400018: Belt_Buckle
+    400020: Belt_Buckle_Ring
+    400022: Belt_Buckle_S
+    400024: Belt_Strap
+    400026: Body
+    400028: Coat_Half
+    400030: Coat_Half 1
+    400032: Coat_Trim
+    400034: Collar
+    400036: ID119
+    400038: ID189
+    400040: ID19
+    400042: ID35
+    400044: ID60
+    400046: instance_0
+    400048: instance_1
+    400050: instance_1 1
+    400052: instance_2
+    400054: instance_2 1
+    400056: instance_3
+    400058: instance_3 1
+    400060: instance_4
+    400062: Leg
+    400064: Leg 1
+    400066: Leg_Boot
+    400068: Leg_Boot 1
+    400070: Leg_Cuff
+    400072: Leg_Cuff 1
+    400074: Leg_Pants
+    400076: Leg_Pants 1
+    400078: //RootNode
+    400080: Torso
+    400082: Torso_Half
+    400084: Torso_Half 1
+    2300000: Arm
+    2300002: Arm 1
+    2300004: Arm_Cuff
+    2300006: Arm_Cuff 1
+    2300008: Arm_Mitten
+    2300010: Arm_Mitten 1
+    2300012: Arm_Sleeve
+    2300014: Arm_Sleeve 1
+    2300016: Belt_Buckle_Ring
+    2300018: Belt_Buckle_S
+    2300020: Belt_Strap
+    2300022: Coat_Half
+    2300024: Coat_Half 1
+    2300026: Coat_Trim
+    2300028: Collar
+    2300030: ID119
+    2300032: ID189
+    2300034: ID19
+    2300036: ID35
+    2300038: ID60
+    2300040: Leg_Boot
+    2300042: Leg_Boot 1
+    2300044: Leg_Cuff
+    2300046: Leg_Cuff 1
+    2300048: Leg_Pants
+    2300050: Leg_Pants 1
+    3300000: Arm
+    3300002: Arm 1
+    3300004: Arm_Cuff
+    3300006: Arm_Cuff 1
+    3300008: Arm_Mitten
+    3300010: Arm_Mitten 1
+    3300012: Arm_Sleeve
+    3300014: Arm_Sleeve 1
+    3300016: Belt_Buckle_Ring
+    3300018: Belt_Buckle_S
+    3300020: Belt_Strap
+    3300022: Coat_Half
+    3300024: Coat_Half 1
+    3300026: Coat_Trim
+    3300028: Collar
+    3300030: ID119
+    3300032: ID189
+    3300034: ID19
+    3300036: ID35
+    3300038: ID60
+    3300040: Leg_Boot
+    3300042: Leg_Boot 1
+    3300044: Leg_Cuff
+    3300046: Leg_Cuff 1
+    3300048: Leg_Pants
+    3300050: Leg_Pants 1
+    4300000: Collar
+    4300002: Coat_Trim
+    4300004: ID19
+    4300006: Belt_Strap
+    4300008: ID35
+    4300010: Belt_Buckle_S
+    4300012: Belt_Buckle_Ring
+    4300014: ID60
+    4300016: Arm
+    4300018: Arm_Sleeve
+    4300020: Arm_Cuff
+    4300022: Arm_Mitten
+    4300024: Coat_Half
+    4300026: Leg_Cuff
+    4300028: ID119
+    4300030: Leg_Pants
+    4300032: Leg_Boot
+    4300034: Arm
+    4300036: Arm_Sleeve
+    4300038: Arm_Cuff
+    4300040: Arm_Mitten
+    4300042: Coat_Half
+    4300044: Leg_Cuff
+    4300046: ID189
+    4300048: Leg_Pants
+    4300050: Leg_Boot
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: a938ed0130b3a4d82864cce9cc6395d3
+timeCreated: 1438588870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: brim
+    100002: Camera
+    100004: Cube
+    100006: Cube_001
+    100008: //RootNode
+    100010: hammer_handle
+    100012: hammer_head
+    100014: hat
+    100016: head
+    100018: Lamp
+    100020: left_arm
+    100022: left_eye
+    100024: left_foot
+    100026: left_hand
+    100028: left_leg
+    100030: nose
+    100032: pompom
+    100034: right_arm
+    100036: right_eye
+    100038: right_foot
+    100040: right_hand
+    100042: right_leg
+    100044: torso
+    400000: brim
+    400002: Camera
+    400004: Cube
+    400006: Cube_001
+    400008: //RootNode
+    400010: hammer_handle
+    400012: hammer_head
+    400014: hat
+    400016: head
+    400018: Lamp
+    400020: left_arm
+    400022: left_eye
+    400024: left_foot
+    400026: left_hand
+    400028: left_leg
+    400030: nose
+    400032: pompom
+    400034: right_arm
+    400036: right_eye
+    400038: right_foot
+    400040: right_hand
+    400042: right_leg
+    400044: torso
+    2300000: brim
+    2300002: Cube
+    2300004: Cube_001
+    2300006: hammer_handle
+    2300008: hammer_head
+    2300010: hat
+    2300012: head
+    2300014: left_arm
+    2300016: left_eye
+    2300018: left_foot
+    2300020: left_hand
+    2300022: left_leg
+    2300024: nose
+    2300026: pompom
+    2300028: right_arm
+    2300030: right_eye
+    2300032: right_foot
+    2300034: right_hand
+    2300036: right_leg
+    2300038: torso
+    3300000: brim
+    3300002: Cube
+    3300004: Cube_001
+    3300006: hammer_handle
+    3300008: hammer_head
+    3300010: hat
+    3300012: head
+    3300014: left_arm
+    3300016: left_eye
+    3300018: left_foot
+    3300020: left_hand
+    3300022: left_leg
+    3300024: nose
+    3300026: pompom
+    3300028: right_arm
+    3300030: right_eye
+    3300032: right_foot
+    3300034: right_hand
+    3300036: right_leg
+    3300038: torso
+    4300000: head
+    4300002: right_eye
+    4300004: torso
+    4300006: left_eye
+    4300008: nose
+    4300010: brim
+    4300012: hat
+    4300014: pompom
+    4300016: right_leg
+    4300018: left_leg
+    4300020: left_foot
+    4300022: right_foot
+    4300024: right_arm
+    4300026: left_arm
+    4300028: left_hand
+    4300030: right_hand
+    4300032: hammer_handle
+    4300034: hammer_head
+    4300036: Cube
+    4300038: Cube_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
