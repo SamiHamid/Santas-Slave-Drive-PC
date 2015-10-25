@@ -10,7 +10,7 @@ Material:
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _EMISSION
   m_LightmapFlags: 1
-  m_CustomRenderQueue: 2000
+  m_CustomRenderQueue: -1
   stringTagMap: {}
   m_SavedProperties:
     serializedVersion: 2
@@ -109,7 +109,7 @@ Material:
       data:
         first:
           name: _Glossiness
-        second: .331999987
+        second: 0
       data:
         first:
           name: _BumpScale
@@ -138,7 +138,7 @@ Material:
       data:
         first:
           name: _EmissionColor
-        second: {r: .139705896, g: .124970198, b: .0061634928, a: 1}
+        second: {r: .242647052, g: .240875185, b: .226589531, a: 1}
       data:
         first:
           name: _Color
