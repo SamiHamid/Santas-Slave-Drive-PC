@@ -6,8 +6,8 @@ public class AudioScript : MonoBehaviour {
 	
 	void Start () 
 	{
-		Invoke ("AudioPlay", 4.5f);
-		Invoke ("LoadNextScene", 17.5f);
+		Invoke ("AudioPlay", 0f);
+		Invoke ("LoadNextScene", 13f);
 	}
 	
 	void AudioPlay()
