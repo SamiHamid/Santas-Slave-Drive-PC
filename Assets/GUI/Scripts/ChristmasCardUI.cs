@@ -40,7 +40,7 @@ public class ChristmasCardUI : MonoBehaviour
 		CameraAnimAlp = CardboardCamera.GetComponent<Animator> ();
 		
 		AudioS = GetComponent<AudioSource>();
-		Invoke ("TitleAudioGo", 3.5f);
+		//Invoke ("TitleAudioGo", 3.5f);
 	}
 	
 	void TitleAudioGo()

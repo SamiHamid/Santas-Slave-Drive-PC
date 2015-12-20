@@ -1045,7 +1045,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100004, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b8b03d395f5734e98af91ccf44f9bf47, type: 2}
@@ -7088,7 +7088,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 102478, guid: 3b5b4ae2d17ee4518a1d4c87018d4d58, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 11442674, guid: 3b5b4ae2d17ee4518a1d4c87018d4d58, type: 2}
       propertyPath: _currentSpeed
@@ -8947,7 +8947,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 632395416}
   m_LocalRotation: {x: 0, y: 0.000000013038513, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1323, y: 0.091, z: -2.65}
+  m_LocalPosition: {x: -0.014, y: 0.091, z: -4.6}
   m_LocalScale: {x: 0.20000002, y: 0.1521739, z: 1}
   m_Children: []
   m_Father: {fileID: 1187993331}
@@ -8979,7 +8979,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9e059c17dbaecf341b4bc08c392a17a0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1333500a97ea759489317ac5f3c5e761, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -9513,7 +9513,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 690745021}
   m_LocalRotation: {x: 0, y: 0.000000014901154, z: 0, w: 1}
-  m_LocalPosition: {x: 0.2307, y: 0.09100005, z: -2.65}
+  m_LocalPosition: {x: 0.333, y: 0.0853, z: -4.3}
   m_LocalScale: {x: 0.20000039, y: 0.1521739, z: 1}
   m_Children: []
   m_Father: {fileID: 1187993331}
@@ -9545,7 +9545,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f7346cb15ecde4747babcc52117f513e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 58e594f3c6482a8419c9f3c7d2de3a89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -12161,7 +12161,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -12172,7 +12172,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -12183,7 +12183,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
 --- !u!1 &829678657
 GameObject:
   m_ObjectHideFlags: 0
@@ -16170,7 +16170,7 @@ MeshFilter:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1085389224}
-  m_Mesh: {fileID: 4300000, guid: bad4d1cc3567f41ceb7d367e0a1a1505, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 5055e64b82c4bb44a9bea40a540ae124, type: 3}
 --- !u!23 &1085389227
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -24832,7 +24832,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!95 &1630247276
 Animator:
   serializedVersion: 3
@@ -28412,7 +28412,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -28611,7 +28611,7 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 4
+    m_RotationOrder: 0
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
